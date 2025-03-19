@@ -85,6 +85,33 @@ The visualization shows:
 - Clear temporal patterns in energy production
 - Interactive date range selection for custom predictions
 
+### Model Development Visualizations
+
+The project includes comprehensive visualizations in the Jupyter notebook (`XGB_renewable_energy_prediction.ipynb`) that demonstrate:
+
+1. **Data Analysis**
+
+   - Time series patterns in energy generation
+   - Seasonal trends and patterns
+   - Data distribution analysis
+
+2. **Model Development**
+
+   - Feature importance analysis
+   - Model performance metrics
+   - Training and validation results
+
+3. **Prediction Analysis**
+   - Model predictions vs actual values
+   - Error analysis and residuals
+   - Confidence intervals
+
+To view these visualizations:
+
+1. Open the Jupyter notebook in the `Project Code/ML_Model/` directory
+2. Run all cells to generate the visualizations
+3. The notebook includes detailed explanations for each visualization
+
 ## Technologies Used
 
 - Python
