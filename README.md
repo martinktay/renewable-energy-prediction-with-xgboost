@@ -71,6 +71,20 @@ Project Code/
 - Visual representation of predictions using matplotlib
 - Responsive design with CSS styling
 
+## Visualizations
+
+### Prediction Output
+
+The application generates interactive visualizations of the predicted energy generation over time. Here's an example of the prediction output:
+
+![Energy Generation Prediction](Project%20Code/ML_Model/app/static/output.png)
+
+The visualization shows:
+
+- Predicted energy generation values over time
+- Clear temporal patterns in energy production
+- Interactive date range selection for custom predictions
+
 ## Technologies Used
 
 - Python
