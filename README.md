@@ -11,7 +11,7 @@ This project focuses on predicting renewable energy generation using machine lea
 - Predict renewable energy generation patterns
 - Provide accurate forecasts for energy production
 - Enable users to make data-driven decisions about energy management
-- Visualize prediction results through an interactive web interface
+- Visualise prediction results through an interactive web interface
 
 ### Key Components
 
@@ -25,19 +25,19 @@ This project focuses on predicting renewable energy generation using machine lea
 
    - XGBoost-based prediction model
    - Trained on historical turbine data
-   - Optimized for time-series forecasting
+   - Optimised for time-series forecasting
 
 3. **Web Application**
    - User-friendly interface for predictions
    - Interactive date range selection
-   - Real-time visualization of results
+   - Real-time visualisation of results
 
 ### Technical Highlights
 
 - Advanced time-series forecasting using XGBoost
 - Feature engineering for temporal patterns
 - Flask-based web deployment
-- Interactive data visualization
+- Interactive data visualisation
 - Responsive web design
 
 ### Model Performance
@@ -71,23 +71,23 @@ Project Code/
 - Visual representation of predictions using matplotlib
 - Responsive design with CSS styling
 
-## Visualizations
+## Visualisations
 
 ### Prediction Output
 
-The application generates interactive visualizations of the predicted energy generation over time. Here's an example of the prediction output:
+The application generates interactive visualisations of the predicted energy generation over time. Here's an example of the prediction output:
 
 ![Energy Generation Prediction](Project%20Code/ML_Model/app/static/output.png)
 
-The visualization shows:
+The visualisation shows:
 
 - Predicted energy generation values over time
 - Clear temporal patterns in energy production
 - Interactive date range selection for custom predictions
 
-### Model Development Visualizations
+### Model Development Visualisations
 
-The project includes comprehensive visualizations in the Jupyter notebook (`XGB_renewable_energy_prediction.ipynb`) that demonstrate:
+The project includes comprehensive visualisations in the Jupyter notebook (`XGB_renewable_energy_prediction.ipynb`) that demonstrate:
 
 1. **Data Analysis**
 
@@ -106,11 +106,11 @@ The project includes comprehensive visualizations in the Jupyter notebook (`XGB_
    - Error analysis and residuals
    - Confidence intervals
 
-To view these visualizations:
+To view these visualisations:
 
 1. Open the Jupyter notebook in the `Project Code/ML_Model/` directory
-2. Run all cells to generate the visualizations
-3. The notebook includes detailed explanations for each visualization
+2. Run all cells to generate the visualisations
+3. The notebook includes detailed explanations for each visualisation
 
 ## Technologies Used
 
