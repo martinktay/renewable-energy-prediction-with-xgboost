@@ -139,7 +139,7 @@ pip install flask pandas numpy xgboost matplotlib seaborn
 3. Navigate to the app directory:
 
 ```bash
-cd Project\ Code/ML_Model/app
+cd "Project Code/ML_Model/app"
 ```
 
 4. Run the Flask application:
