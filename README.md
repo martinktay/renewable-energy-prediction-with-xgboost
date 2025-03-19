@@ -2,6 +2,50 @@
 
 This project implements a machine learning model to predict renewable energy generation using XGBoost. The model is deployed as a web application using Flask, allowing users to make predictions through an interactive interface.
 
+## Project Overview
+
+This project focuses on predicting renewable energy generation using machine learning techniques. The system is designed to forecast energy output based on historical data and various temporal features. Here are the key aspects of the project:
+
+### Purpose
+
+- Predict renewable energy generation patterns
+- Provide accurate forecasts for energy production
+- Enable users to make data-driven decisions about energy management
+- Visualize prediction results through an interactive web interface
+
+### Key Components
+
+1. **Data Processing**
+
+   - Historical energy generation data processing
+   - Feature engineering for temporal patterns
+   - Data validation and cleaning
+
+2. **Machine Learning Model**
+
+   - XGBoost-based prediction model
+   - Trained on historical turbine data
+   - Optimized for time-series forecasting
+
+3. **Web Application**
+   - User-friendly interface for predictions
+   - Interactive date range selection
+   - Real-time visualization of results
+
+### Technical Highlights
+
+- Advanced time-series forecasting using XGBoost
+- Feature engineering for temporal patterns
+- Flask-based web deployment
+- Interactive data visualization
+- Responsive web design
+
+### Model Performance
+
+- Accurate predictions for short to medium-term forecasts
+- Handles seasonal patterns and trends
+- Provides confidence intervals for predictions
+
 ## Project Structure
 
 ```
